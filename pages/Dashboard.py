@@ -19,4 +19,4 @@ with col3:
     st.metric("💵 Balance", f"£{stats['balance']:.2f}")
 
 with col4:
-    st.metric("📄 Transactions", stats["transactions"])
+    st.metric("📄 Transactions", stats["transactions"]) 
